@@ -1,0 +1,14 @@
+[build]
+  publish = "public"
+
+[[redirects]]
+  from = "/"
+  to = "/data.json"
+  status = 302
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Methods = "*"
+    Access-Control-Allow-Headers = "*"

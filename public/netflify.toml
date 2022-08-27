@@ -1,7 +1,0 @@
-[build]
-  publish = "public"
-
-[[redirects]]
-  from = "/"
-  to = "/data.json"
-  status = 302
