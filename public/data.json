@@ -1,92 +1,88 @@
 {
     "news": [
         {
-            "title": "Mundial Qatar 2022: la Selección Argentina se mantiene en el podio del ránking FIFA y es la más taquillera según los organizadores",
-            "link": "https://www.clarin.com/deportes/mundial-qatar-2022-seleccion-argentina-mantiene-podio-ranking-fifa-taquillera-organizadores_0_hSgtummsxm.html",
+            "title": "Argentina, en el top de las camisetas más vendidas del mundo",
+            "link": "https://tntsports.com.ar/seleccion/Seleccion-Argentina-camisetas-mas-vendidas-Mundial-Qatar-2022-Espana-20220905-0012.html",
+            "keywords": [
+            "Selección"
+            ],
+            "creator": [
+            "TNT Sports"
+            ],
+            "video_url": null,
+            "description": "Detrás de España y por encima de Francia y Brasil, entre otras fuertes Selecciones, la Albiceleste se encuentra segunda en el ranking de camisetas más vendidas del Mundial de Qatar hasta ahora.",
+            "content": "Uno de los negocios que más ganancias dejan en la Copa del Mundo es la venta de las camisetas de las distintas selecciones participantes. Por ello, la empresa Euromericas Sport Marketing junto a Google y Amazon ha sacado una lista de las camisetas mundialistas más pedidas al día 1 septiembre de 2022.   Al respecto, Gerardo Molina, especialista en marketing deportivo y director del informe, señaló que “en el top 10 de las más vendidas se ubican en el primer puesto España , seguida de cerca por Argentina, Francia, Mexico, Inglaterra, Brasil, Portugal, Alemania, Japón y Estados Unidos” El tema de las marcas de indumentaria que visten a las selecciones que juegan los Mundiales no es un tema menor. De la cantidad y los éxitos de los equipos depende muchas veces el balance anual de una compañía, por eso se trata de un evento que todos esperan con ansiedad. Se prevé se comercializarán por lo menos u$s 2.800 millones solamente gracias a estas prendas, sin contar los ingresos que generarán los shorts, medias, botines y buzos al final del evento y el merchandising que rondara los u$s 1.400 millones. Estas cifras superan a los recaudo por camisetas en el mundial de Rusia donde la cifra alcanzó los u$s 1.400 millones. A continuación las 10 camisetas más vendidas hasta el momento, por millones de unidades: España: 2.100.000 Argentina : 1.850.000 Francia: 1.710.000 Mexico : 1.650.000 Inglaterra  : 1.570.000 Brasil: 1.430.000 Portugal: 1.144.000 Alemania  : 1.090.000 Japón: 995.000 Estados Unidos : 975.000",
+            "pubDate": "2022-09-05 19:44:28",
+            "image_url": "https://tntsports.com.ar/__export/1661818386981/sites/tntsports/img/2022/08/29/messi_camiseta_suplente_argentina.png_334981890.png",
+            "source_id": "tntsports",
+            "country": [
+            "argentina"
+            ],
+            "category": [
+            "sports"
+            ],
+            "language": "spanish"
+        },
+        {
+            "title": "\"El presidente Macron me pidió que me quedara en PSG\", reveló Kylian Mbappé",
+            "link": "https://www.telam.com.ar/notas/202209/603987-futbol-paris-saint-germain-kylian-mbappe-companero-lionel-messi-emanuel-macron.html",
+            "keywords": null,
+            "creator":null,
+            "video_url": null,
+            "description": "El delantero de 23 años estuvo a punto de firmar para el Real Madrid.",
+            "content": "\"Me dijo Eres muy importante para el país. Si un Presidente te dice algo así cuenta\", añadió el compañero de Lionel Messi en el equipo parisino.",
+            "pubDate": "2022-09-06 15:07:00",
+            "image_url": "https://www.telam.com.ar/advf/imagenes/2022/09/631736001cbaa.jpg",
+            "source_id": "telam",
+            "country": [
+                "argentina"
+            ],
+            "category": [
+                "sports"
+            ],
+            "language": "spanish"
+        },
+        {
+            "title": "Los tres jugadores de River que están en duda para el Superclásico",
+            "link": "https://tntsports.com.ar/ligaprofesional/River-Superclasico-Boca-Franco-Armani-Emanuel-Mammana-Pablo-Solari-Liga-Profesional-20220906-0006.html",
+            "keywords": [
+            "Liga Profesional"
+            ],
+            "creator": [
+            "TNT Sports"
+            ],
+            "video_url": null,
+            "description": "Marcelo Gallardo no sabe si contará con Franco Armani, Emanuel Mammana y Pablo Solari en el Superclásico contra Boca. Además, River no tendrá a Bruno Zuculini por su expulsión ante Barracas Central.",
+            "content": "River venció 2-0 a Barracas Central en el Estadio Monumental por la fecha 17 de la Liga Profesional . A pesar de la victoria, Marcelo Gallardo tiene de qué preocuparse de cara al Superclásico del fin de semana que viene: Pablo Solari salió con una molestia muscular en el aductor izquierdo. Sin embargo, hay otros dos jugadores más que están en duda: Franco Armani y Emanuel Mammana. Seguí leyendo El arquero tiene un mini desgarro en el pectíneo izquierdo. Según informó el periodista Maximiliano Grillo para TNT Sports , en River hay esperanzas de que Armani ataje el domingo. Con respecto al defensor, tiene una contractura pero igualmente estaría entre los titulares de Marcelo Gallardo en el Millonario. Pablo Solari es la mayor preocupación. Su lesión es en el cuadrado femoral izquierdo, un músculo rotador de la cadera pero al mismo tiempo es accesorio para toda la articulación y bien profundo. Dependerá de él si se banca el dolor y si Gallardo lo quiere arriegar. ¿Quién sería su reemplazante? Podrían jugar Esequiel Barco, Agustín Palavecino, Miguel Ángel Borja o Santiago Simón. Boca y River llegan con la misma cantidad de puntos, que son 29. Atlético Tucumán y Gimnasia tienen 33, mientras que Huracán y Godoy Cruz están escoltas con 31.",
+            "pubDate": "2022-09-06 14:43:08",
+            "image_url": "https://tntsports.com.ar/__export/1662475386842/sites/tntsports/img/2022/09/06/00022507-16.jpg_2058260343.jpg",
+            "source_id": "tntsports",
+            "country": [
+            "argentina"
+            ],
+            "category": [
+            "sports"
+            ],
+            "language": "spanish"
+        },
+        {
+            "title": "Arranca la Champions, el torneo de clubes más atractivo del mundo",
+            "link": "https://www.pagina12.com.ar/479470-arranca-la-champions-el-torneo-de-clubes-mas-atractivo-del-m",
             "keywords": null,
             "creator": [
-                "Clarin.com"
+               "Página/12"
             ],
             "video_url": null,
-            "description": "Desde Medio Oriente confirmaron que los partidos del equipo de Messi son los más solicitados de la Copa.",
-            "content": null,
-            "pubDate": "2022-08-25 14:26:28",
-            "image_url": "//www.clarin.com/img/2022/07/04/GHZjWEc3e_600x338__1.jpg",
-            "source_id": "clarin",
+            "description": null,
+            "content": "Con un calendario apretado por el Mundial, con la ausencia de Cristiano Ronaldo por primera vez en dos décadas, pero con la certeza de ser el torneo del clubes más atrayente del mundo, la Champions League arrancará este martes con ocho partidos, entre los que se destaca el duelo entre el Paris Saint Germain y la Juventus. Para Lionel Messi arranca uno de sus grandes objetivos de la temporada, más allá de su obsesión por el Mundial de Qatar con la Selección Argentina. Con la presencia de Messi, recibirá mañana a Juventus, que se presentará con Leandro Paredes pero sin Ángel Di María, ausente por lesión, en el partido estelar de la primera fecha de la Liga de Campeones. El partido correspondiente al Grupo H se disputará desde las 16.00 en el estadio Parque de los Príncipes y será televisado por ESPN y Star+.Messi iniciará su décimo novena temporada consecutiva de Liga de Campeones y alcanzará a su excompañero y actual DT de Barcelona, Xavi Hernández, como el tercer jugador con más partidos disputados en la historia. El crack argentino disputó 156 encuentros y, con 125 tantos, es el segundo goleador histórico de la competición por debajo del portugués Cristiano Ronaldo, el gran ausente de la temporada 2022/23 ya que su Manchester United no se clasificó. El debut de la \"Pulga\" fue en diciembre de 2004 en Ucrania en la derrota de Barcelona (2-0) contra Shakhtar Donetsk y con Barcelona conquistó cuatro veces la \"Orejona\": 2006, 2009, 2011 y la última en 2015.A los 35 años y a menos de tres meses de la cita en Qatar, el siete veces elegido mejor jugador del mundo buscará cumplir con el primer objetivo de la temporada: clasificar a PSG a los octavos de final de la Champions League. El primer examen del campeón de Francia será ante Juventus, el equipo más ganador de Italia, que para esta temporada se reforzó con dos futbolistas con pasado cercano en el Parque de los Príncipes, donde a fines de abril estaban celebrando el título de la Ligue 1. Paredes llegó a Turín a préstamo por una temporada con opción de compra hace una semana y todo indica que será titular. Di María, en cambio, cerró su exitoso ciclo de siete temporadas tras no renovar el vínculo que caducó el 30 de junio aunque no podrá volver a su excasa ya que no está en plenitud física luego de la lesión muscular que sufrió hace dos semanas. El juvenil marplatense Matías Soulé finalmente fue citado por el DT Massimiliano Allegri para suplir la baja del \"Fideo\" y seguramente estará en el banco de los suplentes.Paris Saint Germain, bajo el nuevo ciclo de Christophe Galtier, intentará volver a jugar la final, que en ésta edición será en Estambul, en busca de su primer y ansiado título europeo. Por el mismo grupo y en simultáneo pero en Lisboa, Benfica debutará como local de Maccabi Haifa, de Israel. Nicolás Otamendi y Enzo Fernández, una de las sorpresas de la lista previa del seleccionado argentino para los próximos amistosos, estarán en el equipo portugués.La primera jornada también tendrá como atractivo la presentación de Manchester City en la casa de Sevilla, el equipo con más argentinos de la competencia. Con el posible debut de Julián Álvarez en Liga de Campeones, los dirigidos por Josep \"Pep\" Guardiola visitarán al conjunto español de Alejandro Gómez, Erik Lamela, Gonzalo Montiel y Marcos Acuña, en el marco del grupo G. En esa misma zona también están Borussia Dortmund y Copenhague, que inaugurarán la fecha desde las 13.45 en Alemania.A la misma hora y por el Grupo E, Chelsea visitará en Croacia al Dinamo Zagreb, mientras que completarán en Austria desde las 16 el Milan ante el Salzburgo, que cuenta en sus filas con Nicolás Capaldoa.El debut de Real Madrid, último campeón y máximo ganador del torneo, será en Escocia contra Celtic, desde las 16. En el equipo local, que volverá a competir luego de cuatro años de ausencia, se espera la presencia entre los convocados del joven defensor Alexandro Bernabei, ex Lanús, que fue anotado en la lista principal con el número 25. Este grupo F se complementará con el partido entre Leipzig y Shakhtar Donetsk que se disputará desde las 16 en Alemania.",
+            "pubDate": "2022-09-06 03:01:00",
+            "image_url": "https://images.pagina12.com.ar/styles/width960/public/2022-09/638855-whatsapp-20image-202022-09-05-20at-2012-03-35-20pm.jpeg?itok=b4ng3cu9",
+            "source_id": "pagina12",
             "country": [
-                "argentina"
+              "argentina"
             ],
             "category": [
-                "sports"
-            ],
-            "language": "spanish"
-        },
-        {
-            "title": "¡Tremendos cruces! Se sorteó la fase de grupos de la Champions League",
-            "link": "https://tntsports.com.ar/internacional/Champions-League-PSG-Messi-Di-Maria-Juventus-grupos-sorteo-20220825-0006.html",
-            "keywords": [
-                "Internacional"
-            ],
-            "creator": [
-                "TNT Sports"
-            ],
-            "video_url": null,
-            "description": "Así quedaron conformados los cruces de la fase de grupos de la edición 2022/23 del certamen continental europeo.",
-            "content": "Este jueves se sorteó la fase de grupos de la UEFA Champions League 2022-23, donde el Real Madrid intentará retener la corona que conquistó la temporada pasada, mientras que el PSG de Lionel Messi y compañía buscará levantar el trofeo por primera vez. Los cruces en esta instancia se jugarán a partir del el martes 6 de septiembre y el miércoles 2 de noviembre: los dos primeros de cada grupo clasifican a los octavos de final, que se llevarábn a cabo luego del Mundial de Qatar 2022. En tanto, la final será el 10 de junio del 2023 en el estadio Olímpico Atatürk, en Estambul.",
-            "pubDate": "2022-08-25 17:59:09",
-            "image_url": "https://tntsports.com.ar/__export/1661450248957/sites/tntsports/img/2022/08/25/trofeo-de-la-champions-league-4.jpg_802917405.jpg",
-            "source_id": "tntsports",
-            "country": [
-                "argentina"
-            ],
-            "category": [
-                "sports"
-            ],
-            "language": "spanish"
-        },
-        {
-            "title": "River le ofrecerá un nuevo contrato a Gallardo",
-            "link": "https://tntsports.com.ar/ligaprofesional/river-plate-renovacion-marcelo-gallardo-20220826-0005.html",
-            "keywords": [
-                "Liga Profesional"
-            ],
-            "creator": [
-                "TNT Sports"
-            ],
-            "video_url": null,
-            "description": "Según pudo averiguar TNT Sports, la dirigencia del Millonario está pensando en la renovación de Marcelo Gallardo y la idea es ofrecerle un contrato por tres años más.",
-            "content": "Marcelo Gallardo es el proyecto más largo del fútbol argentino actual. El Muñeco está sentado en el banco de River desde junio de 2014 y ya suma más de 8 años como técnico de la institución de Núñez. En el medio, la gloria: 14 títulos, con dos Copas Libertadores. Seguí leyendo En este contexto, en la dirigencia de River ya comienzan a pensar en la renovación del técnico. \"Nunca hemos hablado de esto durante la competencia, tendremos tiempo de charlarlo\", expresó Jorge Brito, presidente de River, en el aniversario por los 5 años de TNT Sports. Según contó Maxi Grillo en Pelota Parada, la idea es ofrecerle un contrato por 3 años, que coincida con el final del mandato de la actual dirigencia comandada por Brito . \"Trabajamos juntos hace 8 años, es una persona de convicciones. Marcelo tiene ese equilibrio necesario, cuando uno está convencido en una idea él la trabaja y trata de ejecutarla\", expresó el presidente. ¿Renovará?",
-            "pubDate": "2022-08-26 16:36:52",
-            "image_url": "https://tntsports.com.ar/__export/1660482079100/sites/tntsports/img/2022/08/14/00022456-17.jpg_199145642.jpg",
-            "source_id": "tntsports",
-            "country": [
-                "argentina"
-            ],
-            "category": [
-                "sports"
-            ],
-            "language": "spanish"
-        },
-        {
-            "title": "\"Scaloni me dijo que me iba a estar siguiendo\"",
-            "link": "https://tntsports.com.ar/seleccion/scaloni-me-dijo-me-iba-estar-siguiendo-20220826-0016.html",
-            "keywords": [
-                "Selección"
-            ],
-            "creator": [
-                "TNT Sports"
-            ],
-            "video_url": null,
-            "description": "Desde Estados Unidos, Thiago Almada habló con TNT Fútbol y contó la charla que tuvo con el DT de la Selección Argentina.",
-            "content": "Thiago Almada , actual jugador del Atlanta United de la MLS, habló mano a mano con TNT Fútbol y reveló la conversación que tuvo con Lionel Scaloni en su última convocatoria, que se dio a fines de 2021 cuando aun estaba en Vélez. Seguí leyendo \"La última vez que fui citado Scaloni me felicitó y me dijo que me iba a estar siguiendo. La selección siempre te ilusiona\" , explicó el atacante. El joven futbolista de 21 años que hasta el momento no debutó en la Selección mayor contó además que es un fiel seguidor de la Scaloneta: \"Miro todos los partidos y lo sigo siempre. Si no me toca jugar, tengo ganas de ir a Qatar \" . \"El Mundial pasado me había tocado ir de sparring a Rusia, pero solo pude ir a un partido. Me encantaría estar en todos los partidos desde la cancha\" , cerró Almada.",
-            "pubDate": "2022-08-26 22:59:35",
-            "image_url": "https://tntsports.com.ar/__export/1651285019340/sites/tntsports/img/2022/03/24/scaloni_en_conferencia_crop1648143979731.jpg_1958383220.jpg",
-            "source_id": "tntsports",
-            "country": [
-                "argentina"
-            ],
-            "category": [
-                "sports"
+               "sports"
             ],
             "language": "spanish"
         }
